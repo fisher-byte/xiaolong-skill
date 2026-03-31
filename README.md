@@ -9,7 +9,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/zhiyangyu/xiaolong-skill.git
+git clone https://github.com/fisher-byte/xiaolong-skill.git
 cd xiaolong-skill
 bash install.sh
 ```
