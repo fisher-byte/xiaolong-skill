@@ -5,7 +5,7 @@
 set -e
 
 SKILL_NAME="xiaolong"
-SKILL_DIR="$(cd "$(dirname "$0")/skills/xiaolong" && pwd)"
+SKILL_DIR="$(cd "$(dirname "$0")" && pwd)"
 SKILLS_ROOT="$HOME/.claude/skills"
 
 echo ""
